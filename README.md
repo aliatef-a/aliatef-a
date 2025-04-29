@@ -62,9 +62,9 @@ I don't just write code — I craft **user-focused interfaces** that drive resul
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) <!-- Replace with your real link -->
-- 💼 LinkedIn: [linkedin.com/in/aliatef](https://www.linkedin.com/in/aliatef)
-- 📧 Email: ali.atef@example.com <!-- Replace with your real email -->
+- <!-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) Replace with your real link -->
+- 💼 LinkedIn: [linkedin.com/in/aliatef]([https://www.linkedin.com/in/aliatef](https://www.linkedin.com/in/ali-atef-318758268/))
+- 📧 Email: aliatef.a612@gmail.com <!-- Replace with your real email -->
 
 ---
 

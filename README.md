@@ -36,12 +36,13 @@
 
 ---
 
-### 🚀 What I’m Currently Working On
+### 📈 GitHub Stats
 
-- Building real-world projects using **React** and **Next.js**
-- Learning more about **state management**, **API integration**, and **performance optimization**
-- Designing beautiful UI with **Tailwind CSS** and **Figma**
-- Contributing to frontend open-source projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliatefdev&show_icons=true&theme=radical" alt="Ali Atef GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aliatefdev&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 

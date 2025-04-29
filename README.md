@@ -1,48 +1,57 @@
-# 👋 Hi, I'm Ali Atef  
-### **Frontend Developer | React.js & Next.js Specialist | Middle-Level Developer**  
+<h1 align="center">Hi 👋, I'm Ali Atef</h1>
+<h3 align="center">A passionate Frontend Developer specialized in React.js & Next.js</h3>
 
-💻 **Building high-performance web apps** with clean, maintainable code  
-🚀 **Passionate about** React ecosystems, pixel-perfect UIs, and performance optimization  
-
----
-
-### **🔥 Top Technologies**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Frontend+Developer;React.js+%2F+Next.js+Specialist;Clean+Code+%7C+Responsive+Design+%7C+UI%2FUX" alt="Typing SVG" />
+</p>
 
 ---
 
-### **🛠️ Full Tech Stack**  
+### 💻 About Me
 
-#### **Frontend Mastery**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-#### **Developer Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🎯 Focused on building **modern**, **responsive**, and **accessible** web applications  
+- ⚛️ Specialized in **React.js**, **Next.js**, and component-based architectures  
+- 🎨 Passionate about **UI/UX**, **clean code**, and **performance optimization**  
+- 📚 Always learning new tech to stay ahead in the frontend world  
 
 ---
 
-### **📬 Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+### 🛠️ Tech Stack
+
+#### Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+#### Frameworks / Libraries  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+#### Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)  
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ---
 
-✨ **Fun Fact:** I can't resist refactoring code for better readability and performance!
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliatefdev&show_icons=true&theme=radical" alt="Ali Atef GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aliatefdev&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aliatef/)  
+- 🌐 [Portfolio](https://your-portfolio-link.com) <!-- Replace with your actual portfolio link -->
+- 📧 ali.atef@example.com <!-- Replace with your real email -->
+
+---
+
+⭐️ From [Ali Atef](https://github.com/aliatefdev)

@@ -23,22 +23,31 @@ I don't just write code — I craft **user-focused interfaces** that drive resul
 
 ### 🛠️ My Tech Stack
 
-#### Core Languages  
+#### 🧩 Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
-#### Frameworks & Libraries  
+#### ⚛️ Frameworks & Libraries  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-#### Tools & Workflow  
+#### 📦 State Management  
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-black?style=flat-square&logo=react-query&logoColor=white)
+
+#### 🔌 API & Database  
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square&logo=api)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+
+#### 🛠️ Tools  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-black?style=flat-square&logo=api)
 
 ---
 
@@ -47,7 +56,7 @@ I don't just write code — I craft **user-focused interfaces** that drive resul
 - Scaling frontend architecture using **Next.js App Router**
 - Enhancing performance and accessibility with **core web vitals**
 - Developing **modular design systems** for large-scale apps
-- Integrating complex APIs and real-time data handling
+- Integrating **GraphQL** and **REST APIs** with clean state management
 
 ---
 

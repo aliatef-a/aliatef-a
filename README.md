@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Atef</h1>
 <h3 align="center">Expert Frontend Developer | React.js & Next.js Specialist</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Delivering+High-Quality+Frontend+Solutions;React.js+%7C+Next.js+%7C+Tailwind+CSS;Performance+%7C+UX+%7C+Scalability" alt="Typing SVG" />
-</p>
+
 
 ---
 

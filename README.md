@@ -49,15 +49,6 @@ I don't just write code — I craft **user-focused interfaces** that drive resul
 
 ---
 
-### 🎯 Currently Focusing On
-
-- Scaling frontend architecture using **Next.js App Router**
-- Enhancing performance and accessibility with **core web vitals**
-- Developing **modular design systems** for large-scale apps
-- Integrating **GraphQL** and **REST APIs** with clean state management
-
----
-
 ### 📫 Connect with Me
 
 <!---  🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) Replace with your real link -->
